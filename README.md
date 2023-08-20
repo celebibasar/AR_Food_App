@@ -31,7 +31,7 @@ I tried some food images and got good results.
 
 ## Authors
 
-  - **Başar Çelebi** - *Provided README Template* -
+  - **Başar Çelebi**
     [celebibasar](https://github.com/celebibasar)
 
 
